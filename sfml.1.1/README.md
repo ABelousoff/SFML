@@ -8,3 +8,4 @@
 - Когда вы сделаете задание, зафиксируйте его с помощью git.
 
 ![Image alt](https://github.com/ABelousoff/SFML/raw/master/sfml.1.1/sfml.1.1.png)
+### Вот что получилось
