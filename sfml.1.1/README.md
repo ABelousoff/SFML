@@ -8,4 +8,6 @@
 - Когда вы сделаете задание, зафиксируйте его с помощью git.
 ### Результат
 ![Image alt](https://github.com/ABelousoff/SFML/raw/master/sfml.1.1/sfml.1.1.png)
-
+```
+Снимок сделал: Ctrl+Alt+PrtScr
+```
